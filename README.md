@@ -143,4 +143,4 @@ https://gist.github.com/rupeshtiwari/8558ca0d8ec1c15619e4492dcd6aa81a
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
-[license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.txt
+[license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.TXT
