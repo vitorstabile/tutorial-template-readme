@@ -136,11 +136,11 @@ https://gist.github.com/rupeshtiwari/8558ca0d8ec1c15619e4492dcd6aa81a
 
 [project-shield]: https://img.shields.io/badge/link-project-green.svg
 [project-url]: https://github.com/vitorstabile/tutorial-template-readme
-[license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
-[license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/my-linkedin-blue.svg 
 [linkedin-url]: https://www.linkedin.com/in/vitor-stabile-garcia-5b151b67
 [portfolio-shield]: https://img.shields.io/badge/my-portfolio-red.svg
 [portfolio-url]: https://vitorstabile.github.io
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
+[license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
+[license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.txt
