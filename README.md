@@ -90,13 +90,16 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 # Contributors
 
 | [<img src="https://github.com/vitorstabile.png" width=115 > <br> <sub> Vitor Garcia </sub>][github-url] | 
-| :---: |
+| :-----------------------------------------------------------------------------------------------------: |
 
 # Contacts
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Portfolio][portfolio-shield]][portfolio-url]
-[![GitHub][github-shield]][github-url]                                                  
+| Vitor Garcia                                     | Column 2                                   | Column 3     |
+| :----------------------------------------------- | :-----------------------------------------:| -----------: |
+| [![LinkedIn][linkedin-shield]][linkedin-url]     | More Stuff                                 | And Again    |
+| [![Portfolio][portfolio-shield]][portfolio-url]  | Put Pipes In                               | Like this    |
+| [![GitHub][github-shield]][github-url]           | Put Pipes In                               | Like this    | 
+
 
 # License
 
