@@ -17,6 +17,13 @@
     - [Chapter 3 - Part 1: aaaa](#chapter3part1)
     - [Chapter 3 - Part 2: bbbb](#chapter3part2)
     - [Chapter 3 - Part 3: cccc](#chapter3part3)
+7. [Usage](#usage)
+8. [Contributors](#contributors)
+9. [Contributing](#contributing)
+10. [Roadmap](#roadmap)
+11. [To Do](#todo)
+12. [Contacts](#contacts)
+13. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
 
@@ -215,6 +222,6 @@ https://unsplash.com/
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
-[issues-url]: https://github.com/vitorstabile/template-template-readme/issues
+[issues-url]: https://github.com/vitorstabile/tutorial-template-readme/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/tutorial-template-readme/blob/main/LICENSE.txt
