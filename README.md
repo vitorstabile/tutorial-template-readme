@@ -147,14 +147,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-# Contacts <a name="contacts"></a>
-
-| Vitor Garcia                                     | Column 2                                   | Column 3     |
-| :----------------------------------------------- | :-----------------------------------------:| -----------: |
-| [![LinkedIn][linkedin-shield]][linkedin-url]     | More Stuff                                 | And Again    |
-| [![Portfolio][portfolio-shield]][portfolio-url]  | Put Pipes In                               | Like this    |
-| [![GitHub][github-shield]][github-url]           | Put Pipes In                               | Like this    |
-
 # Roadmap <a name="roadmap"></a>
 
 See the [![Issues][issues-shield]][issues-url]  for a list of proposed features (and known issues).
@@ -168,6 +160,15 @@ If so, list tasks / features that still need to be implemented in your applicati
 :memo: To Do 2
 
 :memo: To Do 3 
+
+
+# Contacts <a name="contacts"></a>
+
+| Vitor Garcia                                     | Column 2                                   | Column 3     |
+| :----------------------------------------------- | :-----------------------------------------:| -----------: |
+| [![LinkedIn][linkedin-shield]][linkedin-url]     | More Stuff                                 | And Again    |
+| [![Portfolio][portfolio-shield]][portfolio-url]  | Put Pipes In                               | Like this    |
+| [![GitHub][github-shield]][github-url]           | Put Pipes In                               | Like this    |
 
 # License <a name="License"></a>
 
