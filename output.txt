@@ -1,0 +1,446 @@
+## <a name="chapter1"></a>Chapter 1: Introduction to Databases and SQL
+
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: What is a Database and Why Use One?
+
+#### <a name="chapter1part1.1"></a>Chapter 1 - Part 1.1: What is a Database?
+
+#### <a name="chapter1part1.2"></a>Chapter 1 - Part 1.2: Why Use a Database?
+
+#### <a name="chapter1part1.3"></a>Chapter 1 - Part 1.3: Real-World Applications
+
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Understanding Relational Databases and Tables
+
+#### <a name="chapter1part2.1"></a>Chapter 1 - Part 2.1: Core Principles of Relational Databases
+
+#### <a name="chapter1part2.2"></a>Chapter 1 - Part 2.2: Normalization
+
+#### <a name="chapter1part2.3"></a>Chapter 1 - Part 2.3: Data Integrity
+
+#### <a name="chapter1part2.4"></a>Chapter 1 - Part 2.4: The "Online Bookstore" Database
+
+#### <a name="chapter1part3"></a>Chapter 1 - Part 3: Introduction to SQL: The Language of Databases
+
+#### <a name="chapter1part3.1"></a>Chapter 1 - Part 3.1: Core Principles of Relational Databases
+
+#### <a name="chapter1part3.2"></a>Chapter 1 - Part 3.2: What is SQL?
+
+#### <a name="chapter1part3.3"></a>Chapter 1 - Part 3.3: SQL vs. Other Programming Languages
+
+#### <a name="chapter1part3.4"></a>Chapter 1 - Part 3.4: SQL Statements and Syntax
+
+#### <a name="chapter1part3.5"></a>Chapter 1 - Part 3.5: Data Types in SQL
+
+#### <a name="chapter1part3.6"></a>Chapter 1 - Part 3.6: SQL Operators
+
+#### <a name="chapter1part3.7"></a>Chapter 1 - Part 3.7: SQL Functions
+
+#### <a name="chapter1part3.8"></a>Chapter 1 - Part 3.8: Different categories of SQL commands: DDL, DML, DCL, TCL, and DQL
+
+#### <a name="chapter1part4"></a>Chapter 1 - Part 4: Setting Up Your SQL Environment (e.g., SQLite, MySQL, PostgreSQL)
+
+#### <a name="chapter1part4.1"></a>Chapter 1 - Part 4.1: Choosing a Database Management System (DBMS)
+
+#### <a name="chapter1part4.2"></a>Chapter 1 - Part 4.2: Setting Up SQLite
+
+#### <a name="chapter1part4.3"></a>Chapter 1 - Part 4.3: Setting Up MySQL
+
+#### <a name="chapter1part4.4"></a>Chapter 1 - Part 4.4: Setting Up PostgreSQL
+
+#### <a name="chapter1part4.5"></a>Chapter 1 - Part 4.5: Connecting to a Database from a Programming Language
+
+#### <a name="chapter1part5"></a>Chapter 1 - Part 5: Connecting to a Database and Running Basic Commands
+
+#### <a name="chapter1part5.1"></a>Chapter 1 - Part 5.1: Establishing a Database Connection
+
+#### <a name="chapter1part5.2"></a>Chapter 1 - Part 5.2: Running Basic SQL Commands
+
+#### <a name="chapter1part6"></a>Chapter 1 - Part 6: Case Study Introduction: The "Online Bookstore" Database
+
+#### <a name="chapter1part6.1"></a>Chapter 1 - Part 6.1: Introducing the Online Bookstore Database
+
+#### <a name="chapter1part6.2"></a>Chapter 1 - Part 6.2: Detailed Table Schemas
+
+#### <a name="chapter1part6.3"></a>Chapter 1 - Part 6.3: Example Scenarios and Queries
+
+## <a name="chapter2"></a>Chapter 2: Retriving Data with SELECT Statements
+
+#### <a name="chapter2part1"></a>Chapter 2 - Part 1: Basic SELECT Statements: Choosing Columns
+
+#### <a name="chapter2part1.1"></a>Chapter 2 - Part 1.1: Basic Syntax of the SELECT Statement
+
+#### <a name="chapter2part1.2"></a>Chapter 2 - Part 1.2: Selecting Specific Columns
+
+#### <a name="chapter2part1.3"></a>Chapter 2 - Part 1.3: Selecting All Columns Using the Asterisk (*) Wildcard
+
+#### <a name="chapter2part1.4"></a>Chapter 2 - Part 1.4: Column Order in the SELECT Statement
+
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: Filtering Data with WHERE Clauses: Conditions and Operators
+
+#### <a name="chapter2part2.1"></a>Chapter 2 - Part 2.1: Understanding the WHERE Clause
+
+#### <a name="chapter2part2.2"></a>Chapter 2 - Part 2.2: Comparison Operators
+
+#### <a name="chapter2part2.3"></a>Chapter 2 - Part 2.3: Logical Operators
+
+#### <a name="chapter2part2.4"></a>Chapter 2 - Part 2.4: Special Operators
+
+#### <a name="chapter2part2.5"></a>Chapter 2 - Part 2.5: Operator Precedence
+
+#### <a name="chapter2part2.6"></a>Chapter 2 - Part 2.6: Case Sensitivity
+
+#### <a name="chapter2part2.7"></a>Chapter 2 - Part 2.7: Case() Functions
+
+#### <a name="chapter2part2.8"></a>Chapter 2 - Part 2.8: Performance Considerations
+
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Sorting Data with ORDER BY: Ascending and Descending
+
+#### <a name="chapter2part3.1"></a>Chapter 2 - Part 3.1: Understanding the ORDER BY Clause
+
+#### <a name="chapter2part3.2"></a>Chapter 2 - Part 3.2: Practical Examples and Demonstrations
+
+#### <a name="chapter2part4"></a>Chapter 2 - Part 4: Limiting Results with LIMIT: Retrieving Top N Rows
+
+#### <a name="chapter2part4.1"></a>Chapter 2 - Part 4.1: Understanding the LIMIT Clause
+
+#### <a name="chapter2part5"></a>Chapter 2 - Part 5: Using Aliases for Columns and Tables: Improving Readability
+
+#### <a name="chapter2part5.1"></a>Chapter 2 - Part 5.1: Understanding Aliases
+
+#### <a name="chapter2part5.2"></a>Chapter 2 - Part 5.2: Practical Examples and Demonstrations
+
+#### <a name="chapter2part6"></a>Chapter 2 - Part 6: Practical Exercise: Querying the Bookstore Database
+
+#### <a name="chapter2part6.1"></a>Chapter 2 - Part 6.1: Bookstore Database Schema
+
+#### <a name="chapter2part6.2"></a>Chapter 2 - Part 6.2: Practical Exercises
+
+## <a name="chapter3"></a>Chapter 3: Working with Multiple Tables: Join
+
+#### <a name="chapter3part1"></a>Chapter 3 - Part 1: Understanding Primary and Foreign Keys
+
+#### <a name="chapter3part1.1"></a>Chapter 3 - Part 1.1: Understanding Primary Keys
+
+#### <a name="chapter3part1.2"></a>Chapter 3 - Part 1.2: Understanding Foreign Keys
+
+#### <a name="chapter3part1.3"></a>Chapter 3 - Part 1.3: Practical Examples and Demonstrations
+
+#### <a name="chapter3part2"></a>Chapter 3 - Part 2: Introduction to JOINs: Combining Data from Multiple Tables
+
+#### <a name="chapter3part2.1"></a>Chapter 3 - Part 2.1: Understanding Primary and Foreign Keys
+
+#### <a name="chapter3part2.2"></a>Chapter 3 - Part 2.2: Introduction to JOINs: Combining Data from Multiple Tables
+
+#### <a name="chapter3part2.3"></a>Chapter 3 - Part 2.3: Practical Examples and Demonstrations
+
+#### <a name="chapter3part3"></a>Chapter 3 - Part 3: INNER JOIN: Retrieving Matching Rows
+
+#### <a name="chapter3part3.1"></a>Chapter 3 - Part 3.1: Understanding INNER JOIN
+
+#### <a name="chapter3part3.2"></a>Chapter 3 - Part 3.2: Practical Examples and Demonstrations
+
+#### <a name="chapter3part4"></a>Chapter 3 - Part 4: LEFT JOIN (LEFT OUTER JOIN): Retrieving All Rows from the Left Table
+
+#### <a name="chapter3part4.1"></a>Chapter 3 - Part 4.1: Understanding the LEFT JOIN
+
+#### <a name="chapter3part4.2"></a>Chapter 3 - Part 4.2: Practical Examples Using the Bookstore Database
+
+#### <a name="chapter3part5"></a>Chapter 3 - Part 5: RIGHT JOIN (RIGHT OUTER JOIN): Retrieving All Rows from the Right Table
+
+#### <a name="chapter3part5.1"></a>Chapter 3 - Part 5.1: Understanding the RIGHT JOIN
+
+#### <a name="chapter3part5.2"></a>Chapter 3 - Part 5.2: Practical Examples
+
+#### <a name="chapter3part6"></a>Chapter 3 - Part 6: FULL OUTER JOIN: Retrieving All Rows from Both Tables
+
+#### <a name="chapter3part6.1"></a>Chapter 3 - Part 6.1: Understanding FULL OUTER JOIN
+
+#### <a name="chapter3part6.2"></a>Chapter 3 - Part 6.2: Practical Examples
+
+#### <a name="chapter3part6.3"></a>Chapter 3 - Part 6.3: Real-World Application
+
+#### <a name="chapter3part7"></a>Chapter 3 - Part 7: Practical Exercise: Joining Tables in the Bookstore Database
+
+#### <a name="chapter3part7.1"></a>Chapter 3 - Part 7.1: Setting Up the Bookstore Database (Reminder)
+
+#### <a name="chapter3part7.2"></a>Chapter 3 - Part 7.2: Exercise 1: Retrieving Book Titles and Author Names
+
+#### <a name="chapter3part7.3"></a>Chapter 3 - Part 7.3: Exercise 2: Finding Customers and Their Orders
+
+#### <a name="chapter3part7.4"></a>Chapter 3 - Part 7.4: Exercise 3: Retrieving Book Titles and Order Information
+
+#### <a name="chapter3part7.5"></a>Chapter 3 - Part 7.5: Exercise 4: Using LEFT JOIN to Find Authors Without Books
+
+#### <a name="chapter3part7.6"></a>Chapter 3 - Part 7.6: Exercise 5: Combining Different JOIN Types
+
+## <a name="chapter4"></a>Chapter 4: Data Manipulation: INSERT; UPDATE, and DELETE
+
+#### <a name="chapter4part1"></a>Chapter 4 - Part 1: Inserting New Data with INSERT INTO
+
+#### <a name="chapter4part1.1"></a>Chapter 4 - Part 1.1: Basic INSERT INTO Syntax
+
+#### <a name="chapter4part1.2"></a>Chapter 4 - Part 1.2: Inserting Data into Specific Columns
+
+#### <a name="chapter4part1.3"></a>Chapter 4 - Part 1.3: Inserting Multiple Rows
+
+#### <a name="chapter4part1.4"></a>Chapter 4 - Part 1.4: Inserting Data from Another Table
+
+#### <a name="chapter4part1.5"></a>Chapter 4 - Part 1.5: Data Type Considerations
+
+#### <a name="chapter4part1.6"></a>Chapter 4 - Part 1.6: Handling Errors and Constraints
+
+#### <a name="chapter4part1.7"></a>Chapter 4 - Part 1.7: Best Practices for INSERT INTO Statements
+
+#### <a name="chapter4part2"></a>Chapter 4 - Part 2: Updating Existing Data with UPDATE
+
+#### <a name="chapter4part2.1"></a>Chapter 4 - Part 2.1: The Basic Syntax of UPDATE
+
+#### <a name="chapter4part2.2"></a>Chapter 4 - Part 2.2: Understanding the WHERE Clause
+
+#### <a name="chapter4part2.3"></a>Chapter 4 - Part 2.3: Updating with Values from Another Table (Advanced)
+
+#### <a name="chapter4part2.4"></a>Chapter 4 - Part 2.4: Important Considerations and Best Practices
+
+#### <a name="chapter4part3"></a>Chapter 4 - Part 3: Deleting Data with DELETE FROM
+
+#### <a name="chapter4part3.1"></a>Chapter 4 - Part 3.1: The DELETE FROM Statement: Basic Syntax
+
+#### <a name="chapter4part3.2"></a>Chapter 4 - Part 3.2: Using the WHERE Clause Effectively
+
+#### <a name="chapter4part3.3"></a>Chapter 4 - Part 3.3: The Importance of WHERE and the Dangers of Accidental Deletion
+
+#### <a name="chapter4part4"></a>Chapter 4 - Part 4: Understanding Transactions: Ensuring Data Integrity
+
+#### <a name="chapter4part4.1"></a>Chapter 4 - Part 4.1: Understanding the ACID Properties
+
+#### <a name="chapter4part4.2"></a>Chapter 4 - Part 4.2: Managing Transactions in SQL
+
+#### <a name="chapter4part4.3"></a>Chapter 4 - Part 4.3: Implicit vs. Explicit Transactions
+
+#### <a name="chapter4part4.4"></a>Chapter 4 - Part 4.4: Savepoints: Rolling Back to a Specific Point
+
+#### <a name="chapter4part4.5"></a>Chapter 4 - Part 4.5: Concurrency Control and Isolation Levels
+
+#### <a name="chapter4part4.6"></a>Chapter 4 - Part 4.6: Practical Exercise: Implementing a Book Purchase Transaction
+
+#### <a name="chapter4part4.7"></a>Chapter 4 - Part 4.7: Real-World Applications
+
+#### <a name="chapter4part5"></a>Chapter 4 - Part 5: Practical Exercise: Modifying Data in the Bookstore Database
+
+#### <a name="chapter4part5.1"></a>Chapter 4 - Part 5.1: Inserting New Data with INSERT INTO
+
+#### <a name="chapter4part5.2"></a>Chapter 4 - Part 5.2: Updating Existing Data with UPDATE
+
+#### <a name="chapter4part5.3"></a>Chapter 4 - Part 5.3: Deleting Data with DELETE FROM
+
+#### <a name="chapter4part5.4"></a>Chapter 4 - Part 5.4: Understanding Transactions: Ensuring Data Integrity
+
+#### <a name="chapter4part5.5"></a>Chapter 4 - Part 5.5: Importance of Backups and Data Recovery
+
+#### <a name="chapter4part6"></a>Chapter 4 - Part 6: Importance of Backups and Data Recovery
+
+#### <a name="chapter4part6.1"></a>Chapter 4 - Part 6.1: Why Backups are Essential
+
+#### <a name="chapter4part6.2"></a>Chapter 4 - Part 6.2: Types of Backups
+
+#### <a name="chapter4part6.3"></a>Chapter 4 - Part 6.3: Backup Strategies
+
+#### <a name="chapter4part6.4"></a>Chapter 4 - Part 6.4: Data Recovery Process
+
+#### <a name="chapter4part6.5"></a>Chapter 4 - Part 6.5: Testing Your Backups
+
+#### <a name="chapter4part6.6"></a>Chapter 4 - Part 6.6: Real-World Application
+
+## <a name="chapter5"></a>Chapter 5: Aggregate Functions and Grouping
+
+#### <a name="chapter5part1"></a>Chapter 5 - Part 1: Introduction to Aggregate Functions: COUNT, SUM, AVG, MIN, MAX
+
+#### <a name="chapter5part1.1"></a>Chapter 5 - Part 1.1: Understanding Aggregate Functions
+
+#### <a name="chapter5part1.2"></a>Chapter 5 - Part 1.2: COUNT() Function
+
+#### <a name="chapter5part1.3"></a>Chapter 5 - Part 1.3: SUM() Function
+
+#### <a name="chapter5part1.4"></a>Chapter 5 - Part 1.4: AVG() Function
+
+#### <a name="chapter5part1.5"></a>Chapter 5 - Part 1.5: MIN() and MAX() Functions
+
+#### <a name="chapter5part1.6"></a>Chapter 5 - Part 1.6: Combining Aggregate Functions
+
+#### <a name="chapter5part1.7"></a>Chapter 5 - Part 1.7: Real-World Application
+
+#### <a name="chapter5part2"></a>Chapter 5 - Part 2: Grouping Data with GROUP BY: Analyzing Data Subsets
+
+#### <a name="chapter5part2.1"></a>Chapter 5 - Part 2.1: Understanding the GROUP BY Clause
+
+#### <a name="chapter5part2.2"></a>Chapter 5 - Part 2.2: Practical Examples Using the Bookstore Database
+
+#### <a name="chapter5part3"></a>Chapter 5 - Part 3: Filtering Groups with HAVING: Applying Conditions to Aggregated Data
+
+#### <a name="chapter5part3.1"></a>Chapter 5 - Part 3.1: Understanding the HAVING Clause
+
+#### <a name="chapter5part3.2"></a>Chapter 5 - Part 3.2: Practical Examples Using the Bookstore Database
+
+#### <a name="chapter5part3.3"></a>Chapter 5 - Part 3.3: Real-World Application
+
+#### <a name="chapter5part4"></a>Chapter 5 - Part 4: Combining Aggregate Functions and Joins
+
+#### <a name="chapter5part4.1"></a>Chapter 5 - Part 4.1: Understanding the Synergy of Aggregate Functions and Joins
+
+#### <a name="chapter5part4.2"></a>Chapter 5 - Part 4.2: Practical Examples in the Bookstore Database
+
+#### <a name="chapter5part4.3"></a>Chapter 5 - Part 4.3: Filtering Groups with HAVING
+
+#### <a name="chapter5part5"></a>Chapter 5 - Part 5: Practical Exercise: Analyzing Sales Data in the Bookstore Database
+
+#### <a name="chapter5part5.1"></a>Chapter 5 - Part 5.1: Introduction to Aggregate Functions
+
+#### <a name="chapter5part5.2"></a>Chapter 5 - Part 5.2: Grouping Data with GROUP BY
+
+#### <a name="chapter5part5.3"></a>Chapter 5 - Part 5.3: Filtering Groups with HAVING
+
+#### <a name="chapter5part5.4"></a>Chapter 5 - Part 5.4: Combining Aggregate Functions and Joins
+
+#### <a name="chapter5part6"></a>Chapter 5 - Part 6: Common SQL Errors and Troubleshooting
+
+#### <a name="chapter5part6.1"></a>Chapter 5 - Part 6.1: Common SQL Error Types
+
+#### <a name="chapter5part6.2"></a>Chapter 5 - Part 6.2: Troubleshooting Techniques
+
+#### <a name="chapter5part6.3"></a>Chapter 5 - Part 6.3: Practical Examples and Demonstrations
+
+## <a name="chapter6"></a>Chapter 6: Scalar Functions
+
+## <a name="chapter7"></a>Chapter 7: Case manipulation Functions
+
+## <a name="chapter8"></a>Chapter 8: Character manipulation Functions
+
+## <a name="chapter9"></a>Chapter 9: Case() Functions
+
+## <a name="chapter10"></a>Chapter 10: Set Operators
+
+## <a name="chapter11"></a>Chapter 11: Subqueries and Views
+
+#### <a name="chapter11part1"></a>Chapter 11 - Part 1: Introduction to Subqueries: Queries Within Queries
+
+#### <a name="chapter11part1.1"></a>Chapter 11 - Part 1.1: Understanding Subqueries
+
+#### <a name="chapter11part1.2"></a>Chapter 11 - Part 1.2: Using Subqueries in WHERE Clauses
+
+#### <a name="chapter11part1.3"></a>Chapter 11 - Part 1.3: Using Subqueries in SELECT Clauses
+
+#### <a name="chapter11part1.4"></a>Chapter 11 - Part 1.4: Table Subqueries in the FROM Clause
+
+#### <a name="chapter11part1.5"></a>Chapter 11 - Part 1.5: Table Subqueries in the HAVING Clause
+
+#### <a name="chapter11part2"></a>Chapter 11 - Part 2: Using Subqueries in WHERE Clauses
+
+#### <a name="chapter11part2.1"></a>Chapter 11 - Part 2.1: Understanding Subqueries in WHERE Clauses
+
+#### <a name="chapter11part2.2"></a>Chapter 11 - Part 2.2: Single-Row Subqueries
+
+#### <a name="chapter11part2.3"></a>Chapter 11 - Part 2.3: Multiple-Row Subqueries
+
+#### <a name="chapter11part2.4"></a>Chapter 11 - Part 2.4: Correlated Subqueries
+
+#### <a name="chapter11part3"></a>Chapter 11 - Part 3: Using Subqueries in SELECT Clauses
+
+#### <a name="chapter11part3.1"></a>Chapter 11 - Part 3.1: Understanding Subqueries in the SELECT Clause
+
+#### <a name="chapter11part3.2"></a>Chapter 11 - Part 3.2: Uncorrelated Subqueries in the SELECT Clause
+
+#### <a name="chapter11part3.3"></a>Chapter 11 - Part 3.3: Correlated Subqueries in the SELECT Clause
+
+#### <a name="chapter11part3.4"></a>Chapter 11 - Part 3.4: Practical Considerations and Best Practices
+
+#### <a name="chapter11part4"></a>Chapter 11 - Part 4: Creating Views: Virtual Tables for Simplified Queries
+
+#### <a name="chapter11part4.1"></a>Chapter 11 - Part 4.1: Understanding Views
+
+#### <a name="chapter11part4.2"></a>Chapter 11 - Part 4.2: Creating Simple Views
+
+#### <a name="chapter11part4.3"></a>Chapter 11 - Part 4.3: Creating Complex Views
+
+#### <a name="chapter11part4.4"></a>Chapter 11 - Part 4.4: Advantages and Disadvantages of Using Views
+
+#### <a name="chapter11part4.5"></a>Chapter 11 - Part 4.5: Updatable Views
+
+#### <a name="chapter11part4.6"></a>Chapter 11 - Part 4.6: Dropping Views
+
+#### <a name="chapter11part5"></a>Chapter 11 - Part 5: Advantages and Disadvantages of Using Views
+
+#### <a name="chapter11part5.1"></a>Chapter 11 - Part 5.1: Advantages of Using Views
+
+#### <a name="chapter11part5.2"></a>Chapter 11 - Part 5.2: Disadvantages of Using Views
+
+#### <a name="chapter11part5.3"></a>Chapter 11 - Part 5.3: Practical Examples and Demonstrations
+
+#### <a name="chapter11part6"></a>Chapter 11 - Part 6: Practical Exercise: Creating and Using Views in the Bookstore Database
+
+#### <a name="chapter11part6.1"></a>Chapter 11 - Part 6.1: Creating Views
+
+#### <a name="chapter11part6.2"></a>Chapter 11 - Part 6.2: Using Views
+
+#### <a name="chapter11part6.3"></a>Chapter 11 - Part 6.3: Advantages and Disadvantages of Using Views
+
+## <a name="chapter12"></a>Chapter 12: CTE (Common Table Expression)
+
+## <a name="chapter13"></a>Chapter 13: Advanced SQL Concepts and Best Practices
+
+#### <a name="chapter13part1"></a>Chapter 13 - Part 1: Introduction to Indexes: Improving Query Performance
+
+#### <a name="chapter13part1.1"></a>Chapter 13 - Part 1.1: Understanding Indexes
+
+#### <a name="chapter13part1.2"></a>Chapter 13 - Part 1.2: Types of Indexes
+
+#### <a name="chapter13part1.3"></a>Chapter 13 - Part 1.3: Indexing Strategies
+
+#### <a name="chapter13part1.4"></a>Chapter 13 - Part 1.4: Practical Examples and Demonstrations
+
+#### <a name="chapter13part2"></a>Chapter 13 - Part 2: Understanding Different Types of Indexes
+
+#### <a name="chapter13part2.1"></a>Chapter 13 - Part 2.1: Understanding Index Basics
+
+#### <a name="chapter13part2.2"></a>Chapter 13 - Part 2.2: Types of Indexes
+
+#### <a name="chapter13part2.3"></a>Chapter 13 - Part 2.3: Choosing the Right Index
+
+#### <a name="chapter13part2.4"></a>Chapter 13 - Part 2.4: Indexing Strategies for the Bookstore Database
+
+#### <a name="chapter13part3"></a>Chapter 13 - Part 3: Using EXPLAIN to Analyze Query Performance
+
+#### <a name="chapter13part3.1"></a>Chapter 13 - Part 3.1: Introduction to EXPLAIN
+
+#### <a name="chapter13part3.2"></a>Chapter 13 - Part 3.2: Interpreting EXPLAIN Output
+
+#### <a name="chapter13part3.3"></a>Chapter 13 - Part 3.3: Optimizing Queries Based on EXPLAIN Output
+
+#### <a name="chapter13part4"></a>Chapter 13 - Part 4: SQL Injection Prevention: Writing Secure Queries
+
+#### <a name="chapter13part4.1"></a>Chapter 13 - Part 4.1: Understanding SQL Injection
+
+#### <a name="chapter13part4.2"></a>Chapter 13 - Part 4.2: Preventing SQL Injection: Secure Coding Practices
+
+#### <a name="chapter13part5"></a>Chapter 13 - Part 5: Introduction to Stored Procedures and Functions
+
+#### <a name="chapter13part5.1"></a>Chapter 13 - Part 5.1: Understanding Stored Procedures
+
+#### <a name="chapter13part5.2"></a>Chapter 13 - Part 5.2: Understanding Functions
+
+#### <a name="chapter13part5.3"></a>Chapter 13 - Part 5.3: Real-World Applications
+
+#### <a name="chapter13part6"></a>Chapter 13 - Part 6: Best Practices for Writing Clean and Efficient SQL Code
+
+#### <a name="chapter13part6.1"></a>Chapter 13 - Part 6.1: Importance of Code Readability
+
+#### <a name="chapter13part6.2"></a>Chapter 13 - Part 6.2: Writing Efficient SQL Queries
+
+#### <a name="chapter13part7"></a>Chapter 13 - Part 7: Next Steps: Further Learning and Resources
+
+#### <a name="chapter13part7.1"></a>Chapter 13 - Part 7.1: Delving Deeper: Advanced SQL Topics
+
+#### <a name="chapter13part7.2"></a>Chapter 13 - Part 7.2: Online Resources and Communities
+
+#### <a name="chapter13part7.3"></a>Chapter 13 - Part 7.3: Practical Projects and Exercises
+
+#### <a name="chapter13part7.4"></a>Chapter 13 - Part 7.4: Best Practices for Continuous Learning
+
